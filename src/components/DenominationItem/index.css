@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.denomination {
+  width: 150px;
+  padding: 10px;
+  background-color: #585076;
+  border: 1px #d4d2db solid;
+  color: #d4d2db;
+  border-radius: 8px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  outline: none;
+  text-align: center;
+}
+
+.list-type {
+  list-style-type: none;
+}

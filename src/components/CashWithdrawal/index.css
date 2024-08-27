@@ -1,0 +1,64 @@
+/* Write your CSS here */
+.main-container {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.withdraw-card {
+  background-color: #150b3e;
+  border-radius: 12px;
+  padding: 30px;
+  width: 500px;
+}
+
+.pic {
+  background-color: #c7d2fe;
+  border-radius: 24px;
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+  text-align: center;
+  margin-top: 18px;
+}
+
+.profile {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.name {
+  color: #d4d2db;
+  font-family: 'Roboto';
+}
+
+.balance-card {
+  display: flex;
+  justify-content: space-between;
+  color: #382f5a;
+  margin-top: 10px;
+}
+
+.balance-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.cash {
+  color: #d4d2db;
+}
+
+.withdraw {
+  color: #d4d2db;
+}
+
+.sum {
+  color: #382f5a;
+}
+
+.liststyle {
+  display: flex;
+  flex-wrap: wrap;
+  
+}
